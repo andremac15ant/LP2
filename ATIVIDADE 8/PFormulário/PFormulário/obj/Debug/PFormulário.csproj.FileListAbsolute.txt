@@ -1,0 +1,15 @@
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\bin\Debug\PFormulário.exe.config
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\bin\Debug\PFormulário.exe
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\bin\Debug\PFormulário.pdb
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.csproj.AssemblyReference.cache
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Form1.resources
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Properties.Resources.resources
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.csproj.GenerateResource.cache
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.csproj.CoreCompileInputs.cache
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.exe
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.pdb
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Form2.resources
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Form3.resources
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Form4.resources
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Form5.resources
+C:\Users\0030482421043\source\repos\PFormulário\PFormulário\obj\Debug\PFormulário.Form6.resources
