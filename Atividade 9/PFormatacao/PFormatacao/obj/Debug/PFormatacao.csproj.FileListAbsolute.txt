@@ -1,0 +1,10 @@
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\bin\Debug\PFormatacao.exe.config
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\bin\Debug\PFormatacao.exe
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\bin\Debug\PFormatacao.pdb
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.AssemblyReference.cache
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.Form1.resources
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.Properties.Resources.resources
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.GenerateResource.cache
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.CoreCompileInputs.cache
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.exe
+C:\Users\0030482421043\source\repos\PFormatacao\PFormatacao\obj\Debug\PFormatacao.pdb
